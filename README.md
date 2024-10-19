@@ -4,7 +4,7 @@
 
 # Screenshots
 
-![LandingPage](<image_url>)
+![LandingPage](https://github.com/raidenfernando1/discussr/blob/main/screenshots/334b4a57-ef0a-4f2e-818b-71ea82ea33a1.jpg)
 
 # Tech stack
 
