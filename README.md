@@ -1,6 +1,7 @@
 # Discussr 
 
 - Anonymous blog site where users can make blogs that last only for a specified amount of time and is anonymous (optional)
+- School mini theses or something
 
 # Get started
 
